@@ -166,11 +166,11 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <div className="bg-white/10 backdrop-blur rounded-lg px-6 py-3">
               <p className="text-white font-medium">Email</p>
-              <p className="text-blue-100">[your.email@example.com]</p>
+              <p className="text-blue-100">robinbaariu@gmail.com</p>
             </div>
             <div className="bg-white/10 backdrop-blur rounded-lg px-6 py-3">
               <p className="text-white font-medium">LinkedIn</p>
-              <p className="text-blue-100">[Your LinkedIn Profile]</p>
+              <p className="text-blue-100">baariu robin</p>
             </div>
           </div>
         </section>
