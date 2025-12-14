@@ -5,11 +5,14 @@ export default function Home() {
         {/* Header Section */}
         <header className="text-center mb-16">
           <div className="w-32 h-32 bg-gradient-to-br from-blue-600 to-blue-800 rounded-full mx-auto mb-6 flex items-center justify-center">
-            <span className="text-4xl font-bold text-white">R</span>
+            <span className="text-4xl font-bold text-white">BM</span>
           </div>
           <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Robin [Your Last Name]
+            Baariu Robinson Mugambi
           </h1>
+          <p className="text-lg text-blue-600 dark:text-blue-400 mb-2">
+            robinbaariu@gmail.com
+          </p>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-2">
             Certified Records and Information Technology Expert
           </p>
